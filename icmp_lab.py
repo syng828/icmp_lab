@@ -98,6 +98,7 @@ def ping(host, timeout=1):
         time.sleep(1)# one second
     return delay
 
-ping("127.0.0.1")
+ping("google.com")
+
 
 
